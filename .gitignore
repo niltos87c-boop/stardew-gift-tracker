@@ -1,0 +1,4 @@
+tracker
+tracker.exe
+*.o
+tracker_data.txt
