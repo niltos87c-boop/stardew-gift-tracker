@@ -114,6 +114,4 @@ valgrind --leak-check=full ./tracker --status
 - Birthday and gift-taste bonuses
 - Unit tests with a lightweight framework
 
-## 📄 License
 
-MIT — feel free to use and adapt.
